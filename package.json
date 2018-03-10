@@ -1,0 +1,21 @@
+{
+  "name": "say-hiragana",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "macoshita <macoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^1.4.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "pug": "^2.0.0-rc.4",
+    "pug-loader": "^2.3.0",
+    "sass-loader": "^6.0.7"
+  }
+}
