@@ -13,7 +13,7 @@ m.set('Semicolon', 'れ')
 m.set('Quote', 'け')
 m.set('Backslash', 'む')
 m.set('Comma', 'ね')
-m.set('Period', 'ね')
+m.set('Period', 'る')
 m.set('Slash', 'め')
 m.set('IntlRo', 'ろ')
 
