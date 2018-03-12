@@ -13,6 +13,7 @@
   "author": "macoshita <macoshita@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@nuxtjs/pwa": "^2.0.8",
     "nuxt": "^1.4.0"
   },
   "devDependencies": {
