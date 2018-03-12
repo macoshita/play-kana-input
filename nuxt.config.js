@@ -1,6 +1,6 @@
 module.exports = {
   router: {
-    base: '/toy-hiragana/',
+    base: '/play-kana-input/',
     mode: 'hash',
   }
 }
