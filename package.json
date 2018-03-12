@@ -1,7 +1,7 @@
 {
-  "name": "say-hiragana",
+  "name": "play-kana-input",
   "version": "0.0.1",
-  "description": "",
+  "description": "かな　にゅうりょく　で　あそぼう",
   "main": "index.js",
   "scripts": {
     "dev": "nuxt",

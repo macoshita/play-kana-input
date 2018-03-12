@@ -7,5 +7,9 @@ module.exports = {
   ],
   css: [
     '@/assets/css/fonts/rounded-x-mplus-1c-medium.css'
-  ]
+  ],
+  meta: {
+    name: 'かなあそび',
+    description: 'かな　にゅうりょく　で　あそぼう'
+  }
 }
