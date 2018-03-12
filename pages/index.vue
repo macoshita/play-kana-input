@@ -65,17 +65,9 @@ export default {
 </script>
 
 <style lang="sass">
-@font-face
-  font-family: "Rounded-X M+ 1c medium"
-  src: url("~/static/font/rounded-x-mplus-1c-medium.eot")
-  src: url("~/static/font/rounded-x-mplus-1c-medium.eot?#iefix") format("embedded-opentype"), url("~/static/font/rounded-x-mplus-1c-medium.woff") format("woff"), url("~/static/font/rounded-x-mplus-1c-medium.ttf") format("truetype"), url("~/static/font/rounded-x-mplus-1c-medium.svg#Rounded-X M+ 1c medium") format("svg")
-  font-style: normal;
-  font-weight: normal;
-
 body
-  font-family: "Rounded-X M+ 1c medium"
+  font-family: "rounded-x-mplus-1c-medium"
   margin: 0 3%
-
 </style>
 
 <style lang="sass" scoped>

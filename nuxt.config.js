@@ -4,5 +4,8 @@ module.exports = {
   },
   modules: [
     '@nuxtjs/pwa'
+  ],
+  css: [
+    '@/assets/css/fonts/rounded-x-mplus-1c-medium.css'
   ]
 }
