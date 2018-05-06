@@ -39,6 +39,7 @@ export default {
       if (event.code === 'Space') {
         const synth = window.speechSynthesis
         const utter = new SpeechSynthesisUtterance(this.inputs)
+        utter.lang = 'ja-JP'
         synth.speak(utter)
         this.inputs = ''
         return
